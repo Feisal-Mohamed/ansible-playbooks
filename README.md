@@ -2,11 +2,11 @@
 
 **Architecture Diagram:** 
 
-[Insert diagram here]
+![Alt text](/Ansible Reference Architecture.jpg)
 
 **Website Screenshot:** 
 
-[Insert screenshot here]
+![Alt text](/Website Screenshot.png)
 
 **Prerequisites:**
 1. Install Git
