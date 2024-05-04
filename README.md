@@ -1,19 +1,19 @@
-**Title:** Deploy a Static Website on AWS with Ansible
+# **Title:** Deploy a Static Website on AWS with Ansible
 
-**Architecture Diagram:** 
+# **Architecture Diagram:** 
 
 ![Alt text](/Ansible-Reference-Architecture.jpg)
 
-**Website Screenshot:** 
+# **Website Screenshot:** 
 
 ![Alt text](/Website-Screenshot.png)
 
-**Prerequisites:**
+# **Prerequisites:**
 1. Install Git
 2. Install Visual Studio Code
 3. Register for a GitHub account
 
-**Deployment Steps:**
+# **Deployment Steps:**
 1. Create a Key Pair in the AWS Console.
 2. Create a VPC with public and private subnets in 2 AZs.
 3. NAT Gateway, Bastion Host, and Application Load Balancer use public subnets.
